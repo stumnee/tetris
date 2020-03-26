@@ -1,0 +1,12 @@
+{
+    "blocksWidth": 10,
+    "blocksHeight": 20,
+    "squareSize": 20,
+    "colors": ["red", "blue", "white", "pink", "cyan", "green", "orange"],
+    "blocks": [
+        "XXXX   XX  X      X  XX    XX   X ",
+        "       XX  XXX  XXX   XX  XX   XXX"
+    ]
+}
+
+
